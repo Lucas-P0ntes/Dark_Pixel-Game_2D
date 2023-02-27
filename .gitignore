@@ -1,0 +1,60 @@
+# Compiled Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.su
+
+# Visual Studio Code
+.vscode/
+
+# CMake build directory
+build/
+
+# Makefile build directory
+bin/
+
+# Raylib
+raylib/release/
+raylib/examples/
+raylib/templates/
+raylib/Makefile
+raylib/README.md
+
+# W64DevKit
+w64devkit/
+
+# Game Build directory
+game/build/
+
+# Game save files
+game/save/
+
+# Game logs
+game/logs/
+
+# Game assets
+game/assets/
+
+# Game config files
+game/config.ini
+
+# Game executable
+game/game.exe
