@@ -1,0 +1,4 @@
+Apesar de está tudo certo com o executavel, o windows fala que e virus.
+Pelo que eu pesquisei e porque falta um certificado ssl.
+Mais funciona desabilitando o Windows defender, não recomendo, pós pode ter algum virus real esperando por isso kkk. 
+Para testa o jogo tente usar a biblieca e se divirta.
