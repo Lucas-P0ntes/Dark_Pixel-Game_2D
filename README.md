@@ -39,4 +39,7 @@ BeepBox for create the  sound effects
 
 ![4](https://user-images.githubusercontent.com/80328167/221431334-82fbf7bb-4e0a-4a2e-9785-743ae404eb4b.PNG)
 
+![Parallax_florest_game](https://user-images.githubusercontent.com/80328167/230469694-89ba91a7-54ed-4090-b125-8b73cc28e1fe.jpeg)
+
+
 
